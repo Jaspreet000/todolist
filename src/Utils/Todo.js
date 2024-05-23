@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import { SlOptionsVertical } from "react-icons/sl";
-import TasksOptions from "./TasksOptions";
+import TasksOptions from "./TaskOptions";
 import { FaCheck } from "react-icons/fa6";
 
 const Todo = ({
