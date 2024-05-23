@@ -1,8 +1,8 @@
 import React from "react";
 import Home from "./components/Home";
-import AddTodo from "./components/AddTodo";
+import AddTodo from "./components/AddToDo";
 import { Route, Routes } from "react-router-dom";
-import EditTodo from "./components/EditTodo";
+import EditTodo from "./components/EditToDo";
 import TaskDetails from "./components/TaskDetails";
 import { DataProvider } from "./context/DataContext";
 import PageNotFound from "./components/PageNotFound";
